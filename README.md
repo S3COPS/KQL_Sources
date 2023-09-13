@@ -1,7 +1,7 @@
 # KQL_Sources
 A list of sources of good quality KQL content for MS Sentinel and 365 Defender
 - [Rod Trent Github](https://github.com/rod-trent)
-- [Bert-JanP](https://github.com/Bert-JanP)
+- [Bert-JanP](https://github.com/Bert-JanP/Hunting-Queries-Detection-Rules)
 - [alexverboon/MDATP/tree/master/AdvancedHunting (Advanced Hunting)](https://github.com/alexverboon/MDATP/tree/master/AdvancedHunting)
 - [ashwin-patil/blue-teaming-with-kql](https://github.com/ashwin-patil/blue-teaming-with-kql)
 - [eshlomo1/Azure-Sentinel-4-SecOps](https://github.com/eshlomo1/Azure-Sentinel-4-SecOps)
